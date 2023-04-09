@@ -1,0 +1,24 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "mind_games",
+  "main": "index.js",
+  "scripts": {
+    "test": "{\"url\" : \"https://github.com/staermag/project/issues\", \"e-mail\" : \"staer_mag@mail.ru\"}"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"homepage\" : \"https://github.com/staermag/hexlet-js.git\""
+  },
+  "keywords": [
+    "['hexlet-js'",
+    "'first_project'",
+    "'mind_games']"
+  ],
+  "author": "{\"author\": \"Starostin Egor\"}",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
